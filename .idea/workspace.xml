@@ -5,35 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aceee30c-399f-47c1-8ae2-fe94741132f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/array_processor/ArrayProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/array_processor/fromwork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz01_foreach/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz01_foreach/test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz01_foreach/test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz01_foreach/test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz01_foreach/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz01_foreach/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz01_foreach/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz01_foreach/test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz01_foreach/test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz01_foreach/test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz01_foreach/test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz01_foreach/test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz02_loop/zadacha1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz02_loop/zadacha10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz02_loop/zadacha11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz02_loop/zadacha12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz02_loop/zadacha2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz02_loop/zadacha3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz02_loop/zadacha4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz02_loop/zadacha5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz02_loop/zadacha6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz02_loop/zadacha7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz02_loop/zadacha8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz02_loop/zadacha9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/zadacha4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/array_processor/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/array_processor/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/array_processor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/array_processor/fromwork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/dz03_Strings/dz12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/yalyshev/array_processor/fromwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/yalyshev/array_processor/fromwork.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +25,40 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -62,25 +75,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/lena/Developer/java/TOPacademyWork/src/main/java/ru/yalyshev"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lena/Developer/java/TOPacademyWork/src/main/java/ru/yalyshev&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/ru/yalyshev" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test12">
-    <configuration name="test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.yalyshev.dz01_foreach.test10" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.yalyshev.array_processor.Main" />
       <module name="TOPacademyWork.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.yalyshev.dz01_foreach.*" />
+          <option name="PATTERN" value="ru.yalyshev.array_processor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.yalyshev.dz01_foreach.test11" />
+    <configuration name="dz08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.yalyshev.dz03_Strings.dz08" />
       <module name="TOPacademyWork.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.yalyshev.dz01_foreach.*" />
+          <option name="PATTERN" value="ru.yalyshev.dz03_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.yalyshev.dz01_foreach.test12" />
+    <configuration name="dz09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.yalyshev.dz03_Strings.dz09" />
       <module name="TOPacademyWork.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.yalyshev.dz01_foreach.*" />
+          <option name="PATTERN" value="ru.yalyshev.dz03_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.yalyshev.dz01_foreach.test8" />
+    <configuration name="dz10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.yalyshev.dz03_Strings.dz10" />
       <module name="TOPacademyWork.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.yalyshev.dz01_foreach.*" />
+          <option name="PATTERN" value="ru.yalyshev.dz03_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.yalyshev.dz01_foreach.test9" />
+    <configuration name="dz12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.yalyshev.dz03_Strings.dz12" />
       <module name="TOPacademyWork.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.yalyshev.dz01_foreach.*" />
+          <option name="PATTERN" value="ru.yalyshev.dz03_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test12" />
-        <item itemvalue="Application.test11" />
-        <item itemvalue="Application.test10" />
-        <item itemvalue="Application.test9" />
-        <item itemvalue="Application.test8" />
+        <item itemvalue="Application.dz12" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.dz10" />
+        <item itemvalue="Application.dz09" />
+        <item itemvalue="Application.dz08" />
       </list>
     </recent_temporary>
   </component>
@@ -173,13 +187,29 @@
       <option name="project" value="LOCAL" />
       <updated>1663229998803</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="done dz02loop zadacha1-12">
+      <created>1663241009214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663241009214</updated>
+    </task>
+    <task id="LOCAL-00004" summary="done dz03STRINGS zadacha1-10 done!">
+      <created>1665058499379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665058499380</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="done dz02loop zadacha1-12" />
+    <MESSAGE value="done dz03STRINGS zadacha1-10 done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="done dz03STRINGS zadacha1-10 done!" />
   </component>
 </project>
